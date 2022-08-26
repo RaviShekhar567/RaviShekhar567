@@ -1,0 +1,2 @@
+set={x for x in list1 if x%2!=0}
+print(set)
