@@ -1,0 +1,5 @@
+even_set=set()
+for value in list1:
+    if value %2==0:
+     even_set.add(value)
+print(even_set)
